@@ -4,7 +4,7 @@ A particle-theme template as a landing page for your portfolio.
 
 [Check out](https://chesterchangliu.github.io/)
 
-<img src="demo.png" height=166pt width=188pt/>
+<img src="demo.png" height=366pt width=388pt/>
 
 # References and Inspiration
 
