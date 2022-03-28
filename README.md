@@ -2,7 +2,7 @@
 
 A particle-theme template as a landing page for your portfolio.
 
-[Demo](https://chesterchangliu.github.io/)
+[Clicks on](https://chesterchangliu.github.io/)
 
 <img src="demo.png"/>
 
